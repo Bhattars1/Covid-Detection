@@ -1,0 +1,1 @@
+## This project contains MATLAB codes that explores and compares two classical machine learning approaches, the SVMClassifier and the RandomForestClassifier, for detecting COVID-19 using chest X-rays. The analysis includes determining the area of interest by fine-tuning the pixel intensity threshold. Both models achieved very high accuracy.
